@@ -1,2 +1,1 @@
-# Homework
-# makefile
+# Homework, operator overloading
